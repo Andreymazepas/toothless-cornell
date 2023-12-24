@@ -1,0 +1,13 @@
+body {
+  background-color: #282c34;
+  margin: 0;
+  padding: 0;
+}
+/* threejs scene */
+#root {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
